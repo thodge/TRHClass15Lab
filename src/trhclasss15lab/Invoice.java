@@ -20,8 +20,7 @@ public class Invoice {
     public Invoice(Calendar invoiceDate) {
         this.invoiceDate = invoiceDate;
     }
-    public 
-    
+      
     
     
     
